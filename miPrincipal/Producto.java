@@ -10,12 +10,12 @@ public class Producto {
 
     // Constructor
     public Producto(String descripcion, double pesoKilo, double precioKilo) {
-        // Mandar llamar a los métodos set de los atributos
+        // Mandar llamar a los metodos set de los atributos
     }
 
-    // Métodos set/get
+    // Metodos set/get
     public void setDescripcion(String descripcion) {
-        // La descripción no se válida
+        // La descripción no se valida
     }
 
     public void setPesoKilo(double pesoKilo) {
@@ -38,12 +38,12 @@ public class Producto {
         return 0.0;
     }
 
-    // Método para calcular el precio total del producto
+    // Metodo para calcular el precio total del producto
     public double calcularPrecioProducto() {
         return 0.0;
     }
 
-    // Sobrescribir el método toString para mostrar la información del producto
+    // Sobrescribir el metodo toString para mostrar la informacion del producto
     @Override
     public String toString() {
         String resultado = String.format("Producto: %s, Peso: %.2f kg, Precio por kilo: $%,.2f",

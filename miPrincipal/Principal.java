@@ -11,11 +11,11 @@ public class Principal {
         System.out.println();
 
         // Solicitar los datos en el siguiente orden:
-        // descripción, peso en kilos y precio por kilo
+        // descripcion, peso en kilos y precio por kilo
 
         // Crear un objeto Producto con los datos ingresados
 
-        // Línea en blanco
+        // Linea en blanco
         System.out.println();
 
         // Mostrar los datos del producto
