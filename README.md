@@ -12,7 +12,7 @@ Tu programa debería ejecutarse de la siguiente manera:
 Producto - Precio
 =================
 
-Proporcione la descripción del producto:Granos Especiales        
+Proporcione la descripcion del producto:Granos Especiales        
 Proporcione el peso en kilos:25
 Proporcione el precio por kilo:50
 
