@@ -5,6 +5,10 @@ package miPrincipal;
 
 public class Producto {
     private String descripcion;
+
+
+//prueba1
+
     private double pesoKilo;
     private double precioKilo;
 
